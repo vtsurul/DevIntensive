@@ -18,5 +18,61 @@
     <dimen name="spacing_larger_72">72dp</dimen>
 
 
+    <!--Square baseline grid-->
+    <dimen name="baseline_grid_size_4">4dp</dimen>
+    <dimen name="baseline_grid_size_8">8dp</dimen>
+
+
+
+    <dimen name="screenEdge_leftMargin_16">16dp</dimen>
+    <dimen name="screenEdge_leftMargin_24">24dp</dimen>
+
+    <dimen name="screenEdge_rightMargin_16">16dp</dimen>
+    <dimen name="screenEdge_rightMargin_24">24dp</dimen>
+
+    <dimen name="screenEdge_leftPadding_24">24dp</dimen>
+    <dimen name="screenEdge_rightPadding_24">24dp</dimen>
+
+    <dimen name="content_leftMargin_72">72dp</dimen>
+    <dimen name="content_leftMargin_80">80dp</dimen>
+
+    <dimen name="horizontalMargin_16">16dp</dimen>
+
+    <dimen name="statusBar_verticalSpacing_24">24dp</dimen>
+
+    <dimen name="toolbar_verticalSpacing_24">24dp</dimen>
+    <dimen name="toolbar_verticalSpacing_56">56dp</dimen>
+
+    <dimen name="title_verticalSpacing_48">48dp</dimen>
+    <dimen name="title_verticalSpacing_72">72dp</dimen>
+
+    <dimen name="subtitle_verticalSpacing_48">48dp</dimen>
+
+    <dimen name="listItem_verticalSpacing_48">48dp</dimen>
+    <dimen name="listItem_verticalSpacing_64">64dp</dimen>
+    <dimen name="listItem_verticalSpacing_72">72dp</dimen>
+
+    <dimen name="contentAreas_verticalSpacing_8">8dp</dimen>
+    <dimen name="slider_verticalSpacing_48">48dp</dimen>
+    <dimen name="aboveList_verticalSpacing_24">24dp</dimen>
+
+    <dimen name="rightSideIcon_rightAlign_32">32dp</dimen>
+
+    <dimen name="sideNavWidth_56dp">56dp</dimen>
+
+    <dimen name="accountMenu_verticalSpacing_48">48dp</dimen>
+
+    <dimen name="navigationRightMargin_56">56dp</dimen>
+
+    <dimen name="navItem_leftPadding_104">104dp</dimen>
+
+    <dimen name="card_leftPadding_24">24dp</dimen>
+    <dimen name="card_leftPadding_32">32dp</dimen>
+
+    <dimen name="card_rightPadding_24">24dp</dimen>
+    <dimen name="card_rightPadding_32">32dp</dimen>
+
+    <dimen name="cardNavItem_leftPadding_96">96dp</dimen>
+    <dimen name="cardContent_leftPadding_104">104dp</dimen>
 
 </resources>
